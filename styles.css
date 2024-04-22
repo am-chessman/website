@@ -27,7 +27,7 @@ body {
     column-gap: 150px;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: "Architects Daughter", cursive;
+    font-family: inherit;
     color: #00000c;
 }
 
