@@ -366,12 +366,6 @@ button {
     }
 }
 
-@media (orientation: landscape) {
-    body {
-        width: 100vw;
-    }
-}
-
 @media screen and (max-width: 400px) {
     .nav-bar {
         display: grid;
